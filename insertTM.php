@@ -1,5 +1,5 @@
 <?php
-	include_once "koneks.php";
+	include_once "koneksi.php";
 
 	header('Access-Control-Allow-Origin: *');
 
